@@ -1,0 +1,22 @@
+Welcome to Node Pizzabot!
+
+Node Pizzabot is a bot that takes in cartesian coordinates and gives you cardinal directions based on those coordinates! Node Pizzabot always starts at (0, 0). 
+
+Start Node Pizzabot:
+	- download the Node_pizzabot folder
+	- in your CL, change into that folder and download node and npm
+		- go to the node website: https://nodejs.org/en/ and download the version for most users and install 
+		- once you've download node and are in the Node_pizzabot folder type "npm install" 
+	- go to your Command Line Interface and type in "npm start" and you're ready to start delivering pizzas!
+
+Using Node Pizzabot:
+	- make sure you enter your house's coordinates in the right format (x, y) or (x,y), where x and y are both whole numbers. Node Pizzabot takes ONE house at a time.
+		- Ex: (1,2)
+	
+	- our houses all live on a 5X5 grid, so make sure your whole numbers are between 0 and 5!
+	- you can restart at any time by entering "new"
+	- to quit type in "ctrl + c"
+	- to restart just retype "npm start"
+	
+
+Node Pizzabot gives lots of prompts so if you get lost follow the prompt. Have fun!

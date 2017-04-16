@@ -1,0 +1,11 @@
+{
+  "name": "Carrie_Wladis_slice_challenge",
+  "version": "1.0.0",
+  "description": "Node Pizzabot that delivers pizzas!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Carrie Wladis",
+  "license": "ISC"
+}
